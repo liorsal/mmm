@@ -1,0 +1,6 @@
+dash
+plotly
+dash-bootstrap-components
+transformers
+torch
+python-docx
